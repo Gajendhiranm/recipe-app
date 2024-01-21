@@ -1,0 +1,15 @@
+.app-bar {
+  box-shadow: 0 15px 40px -20px rgba(40, 44, 63, .15) !important;
+  background: #fff !important;
+  position: fixed;
+
+}
+
+.box-container{
+  width: 100% !important;
+}
+.Favorities-btn{
+  color: #3d4152 !important;
+  border:none !important;
+  text-transform: lowercase !important;
+}
